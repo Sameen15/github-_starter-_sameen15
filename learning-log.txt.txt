@@ -1,0 +1,7 @@
+ hi i am sameen 
+I'm a student passionate about computer science and technology.
+I’m currently exploring C++, GitHub, and open-source development.
+
+🎯 What I’m Learning
+Version control using Git & GitHub
+Ms excel,word,powerpoint
